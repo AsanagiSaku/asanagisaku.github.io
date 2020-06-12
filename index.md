@@ -1,5 +1,8 @@
 # About
-
+SFが好きな駆け出しのプログラマです。　Since 2019.11〜 <br>
+計算機化学と人工知能にも興味があります。<br>
+<br>
+フロントエンドエンジニアを目指しています。
 
 ## Profile
 - 浅凪朔　AsanagiSaku
@@ -29,8 +32,8 @@
 
 # Works
 
-- [GitHub]（https://github.com/AsanagiSaku）
-- [CodeWars]（https://www.codewars.com/users/AsanagiSaku）
+- [GitHub](https://github.com/AsanagiSaku)
+- [CodeWars](https://www.codewars.com/users/AsanagiSaku)
 
 - 作った作品
   - [掲載予定]
