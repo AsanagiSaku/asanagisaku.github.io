@@ -1,4 +1,4 @@
-# About
+## About
 SFが好きな駆け出しのプログラマです。　Since 2019.11〜 <br>
 計算機化学と人工知能にも興味があります。<br>
 <br>
@@ -9,7 +9,7 @@ SFが好きな駆け出しのプログラマです。　Since 2019.11〜 <br>
 - 静岡県
 - webサービス開発
 
-# Skills
+## Skills
 **使ったことのある言語・ツール・OS**
 
 - HTML
@@ -30,7 +30,7 @@ SFが好きな駆け出しのプログラマです。　Since 2019.11〜 <br>
   - PostgreSQL
   - Heroku
 
-# Works
+## Works
 
 - [GitHub](https://github.com/AsanagiSaku)
 - [CodeWars](https://www.codewars.com/users/AsanagiSaku)
@@ -38,6 +38,6 @@ SFが好きな駆け出しのプログラマです。　Since 2019.11〜 <br>
 - 作った作品
   - [掲載予定]
 
-# Contact 
+## Contact 
 **連絡先**
 - [Twitter](https://twitter.com/Asagikuu_pming)
