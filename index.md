@@ -6,7 +6,8 @@
 - 静岡県
 - webサービス開発
 
-# Skills  使ったことのある言語・ツール・OS
+# Skills
+**使ったことのある言語・ツール・OS**
 
 - HTML
 - CSS
@@ -28,11 +29,12 @@
 
 # Works
 
-- [GitHub]　（https://github.com/AsanagiSaku）
-- [CodeWars]　（https://www.codewars.com/users/AsanagiSaku）
+- [GitHub]（https://github.com/AsanagiSaku）
+- [CodeWars]（https://www.codewars.com/users/AsanagiSaku）
 
 - 作った作品
   - [掲載予定]
 
-# Contact  連絡先
-- [Twitter]　(https://twitter.com/Asagikuu_pming)
+# Contact 
+**連絡先**
+- [Twitter](https://twitter.com/Asagikuu_pming)
