@@ -36,7 +36,7 @@ SFが好きな駆け出しのプログラマです。　Since 2019.11〜 <br>
 - [CodeWars](https://www.codewars.com/users/AsanagiSaku)
 
 - 作った作品
-  - [掲載予定]
+  - [文字数カウンター](https://asanagisaku.github.io/Word-Count/)
 
 ## Contact 
 **連絡先**
