@@ -38,6 +38,9 @@ SFが好きな駆け出しのプログラマです。　Since 2019.11〜 <br>
 - 作った作品
   - [文字数カウンター](https://asanagisaku.github.io/Word-Count/)
 
+- 資格
+  - ITパスポート（８月１７日取得予定）
+
 ## Contact 
 **連絡先**
 - [Twitter](https://twitter.com/Asagikuu_pming)
